@@ -1,10 +1,10 @@
 python2:
-    pkg:
-        - installed
+  pkg:
+    - installed
 
 python-pkgs:
-    pkg:
-        - installed
-        - names:
-            - python2-pip
+  pkg:
+    - installed
+    - names:
+      - python2-pip
 
