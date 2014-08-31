@@ -6,6 +6,10 @@ vim:
   pkg:
     - installed
 
+nano:
+  pkg:
+    - removed
+
 python2:
   pkg:
     - installed
