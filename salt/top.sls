@@ -2,4 +2,4 @@ base:
     '*':
         - vim
         - python
-
+        - httpd
