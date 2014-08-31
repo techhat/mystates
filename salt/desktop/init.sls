@@ -121,3 +121,4 @@ media_apps:
       - brasero
       - mplayer
       - mencoder
+      - alsa-utils
