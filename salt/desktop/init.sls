@@ -1,7 +1,7 @@
 graphical_environment:
   pkg:
     - installed
-    - names:
+    - pkgs:
       - xf86-input-evdev
       - xf86-input-joystick
       - xf86-input-keyboard
@@ -104,7 +104,20 @@ graphical_environment:
 desktop_apps:
   pkg:
     - installed
-    - names:
+    - pkgs:
       - chromium
       - pidgin
       - evince
+      - calibre
+
+media_apps:
+  pkg:
+    - installed
+    - pkgs:
+      - baobab
+      - cdrkit
+      - cdparanoia
+      - cdrdao
+      - brasero
+      - mplayer
+      - mencoder
