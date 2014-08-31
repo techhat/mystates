@@ -1,3 +1,11 @@
+git:
+  pkg:
+    - installed
+
+vim:
+  pkg:
+    - installed
+
 python2:
   pkg:
     - installed

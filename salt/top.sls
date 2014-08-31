@@ -1,7 +1,6 @@
 base:
   '*':
-    - vim
-    - python
+    - dev
     - httpd
     - mariadb
     - network
