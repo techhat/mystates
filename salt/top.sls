@@ -4,3 +4,4 @@ base:
         - python
         - httpd
         - mariadb
+        - network
