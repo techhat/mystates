@@ -122,3 +122,7 @@ media_apps:
       - mplayer
       - mencoder
       - alsa-utils
+      - ffmpeg
+      - flac
+      - pulseaudio
+      - pulseaudio-alsa

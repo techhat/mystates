@@ -6,3 +6,7 @@ network_tools:
       - net-tools
       - netcfg
       - openbsd-netcat
+      - nmap
+      - openssh
+      - tcpdump
+      - wget
