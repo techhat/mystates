@@ -6,5 +6,5 @@ mariadb:
   service.running:
     enabled: True
     require:
-      pkg: httpd
-      file: httpd
+      pkg: mariadb
+      file: mariadb

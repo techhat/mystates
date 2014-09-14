@@ -2,5 +2,5 @@ base:
   '*':
     - dev
     - httpd
-    - mariadb
+    - database
     - network
