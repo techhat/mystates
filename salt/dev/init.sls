@@ -19,4 +19,4 @@ python-pkgs:
     - installed
     - names:
       - python2-pip
-
+      - ipython2
