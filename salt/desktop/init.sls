@@ -126,3 +126,9 @@ media_apps:
       - flac
       - pulseaudio
       - pulseaudio-alsa
+
+system_apps:
+  pkg:
+    - installed
+    - pkgs:
+      - baobab
