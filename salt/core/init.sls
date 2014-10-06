@@ -3,4 +3,7 @@ system-pkgs:
     - installed
     - names:
       - at
+      - dmidecode
       - mlocate
+      - nss
+      - psmisc
