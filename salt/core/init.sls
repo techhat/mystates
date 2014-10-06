@@ -1,7 +1,6 @@
-mlocate:
+system-pkgs:
   pkg:
     - installed
-
-at:
-  pkg:
-    - installed
+    - names:
+      - at
+      - mlocate
