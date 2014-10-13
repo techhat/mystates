@@ -132,3 +132,4 @@ system_apps:
     - installed
     - pkgs:
       - baobab
+      - ack
