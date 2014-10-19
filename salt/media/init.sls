@@ -5,3 +5,6 @@ media_tools:
       - flac
       - lame
       - libogg
+      - cdrdao
+      - cdrkit
+      - libcdr
