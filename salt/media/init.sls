@@ -8,3 +8,8 @@ media_tools:
       - cdrdao
       - cdrkit
       - libcdr
+      - dvd+rw-tools
+      - libdvdcss
+      - libdvdnav
+      - libdvdread
+      - lsdvd
