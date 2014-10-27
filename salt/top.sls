@@ -1,6 +1,10 @@
 base:
   '*':
+    - core
+    - database
+    - desktop
     - dev
     - httpd
-    - database
+    - media
     - network
+    - tools
