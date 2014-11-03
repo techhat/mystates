@@ -1,0 +1,9 @@
+se nu
+syntax on
+se bg=dark
+se ts=4
+set expandtab
+set ignorecase
+set nohlsearch
+set colorcolumn=80
+set nofoldenable

@@ -6,6 +6,12 @@ vim:
   pkg:
     - installed
 
+vimrc:
+  file:
+    - managed
+    - source: salt://dev/.vimrc
+    - name: /root/.vimrc
+
 nano:
   pkg:
     - removed
