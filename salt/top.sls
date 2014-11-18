@@ -5,5 +5,6 @@ base:
     - desktop
     - dev
     - httpd
+    - media
     - network
     - tools
